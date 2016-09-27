@@ -1,0 +1,7 @@
+<root>
+  <item
+      name='android.animation.AnimatorInflater android.animation.Animator loadAnimator(android.content.Context, int) 1'>
+    <annotation name='java.lang.annotation.Deprecated' />
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>
